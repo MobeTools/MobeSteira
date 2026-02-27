@@ -1,0 +1,43 @@
+Steira v1.0
+Copyright (c) 2026
+
+Developed by:
+Moriz Schneider
+Benedikt Keijl
+
+All rights reserved.
+
+This software and its source code are the exclusive intellectual property
+of the above named authors.
+
+Permission is hereby granted to download and use the software for personal use only.
+
+The following actions are strictly prohibited:
+
+- Redistribution
+- Commercial use
+- Modification
+- Reverse engineering
+- Repackaging
+- Republishing
+
+Without explicit written permission from the authors.
+
+This includes any form of:
+
+• Uploading to other platforms  
+• Selling or sublicensing  
+• Including in other software  
+• Derivative works  
+
+The software "Steira v1.0" is provided as-is,
+without warranty of any kind.
+
+Use at your own risk.
+
+---
+
+For licensing requests contact:
+
+Moriz Schneider
+Benedikt Keijl
