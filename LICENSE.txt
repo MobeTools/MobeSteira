@@ -1,41 +1,95 @@
-Steira v1.0
-Copyright (c) 2026
+🔒 STEIRA PROPRIETARY LICENSE
+Alle Rechte vorbehalten
 
-Developed by:
-Moriz Schneider
+Copyright (c) 2026
+Moritz Schneider & Benedikt Keijl
+Alle Rechte vorbehalten.
+
+1. Eigentum
+
+Die Software Steira sowie alle enthaltenen Dateien, Versionen, Erweiterungen und Bestandteile (inkl. Steira_v2.0) sind ausschließliches geistiges Eigentum von:
+
+Moritz Schneider
 Benedikt Keijl
 
-All rights reserved.
+2. Nutzungsrechte
 
-This software and its source code are the exclusive intellectual property
-of the above named authors.
+Die Nutzung der Software ist ausschließlich zu privaten oder intern vereinbarten Zwecken gestattet.
 
-Permission is hereby granted to download and use the software for personal use only.
+Ohne ausdrückliche schriftliche Zustimmung der Eigentümer ist es nicht erlaubt:
 
-The following actions are strictly prohibited:
+die Software zu verändern
 
-- Redistribution
-- Commercial use
-- Modification
-- Reverse engineering
-- Repackaging
-- Republishing
+zu kopieren
 
-Without explicit written permission from the authors.
+weiterzugeben
 
-This includes any form of:
+zu verkaufen
 
-• Uploading to other platforms  
-• Selling or sublicensing  
-• Including in other software  
-• Derivative works  
+zu veröffentlichen
 
-The software "Steira v1.0" is provided as-is,
-without warranty of any kind.
+zu vermieten
 
-Use at your own risk.
+zu reverse engineeren
 
----
+öffentlich zugänglich zu machen
+
+als Grundlage für eigene Software zu verwenden
+
+3. Weitergabe
+
+Eine Weitergabe – auch auszugsweise – ist ohne schriftliche Genehmigung der Eigentümer untersagt.
+
+4. Kommerzielle Nutzung
+
+Jegliche kommerzielle Nutzung ist ohne vorherige schriftliche Zustimmung von
+Moritz Schneider & Benedikt Keijl verboten.
+
+5. Haftungsausschluss
+
+Die Software wird „wie sie ist“ bereitgestellt.
+Die Eigentümer übernehmen keine Haftung für:
+
+Schäden
+
+Datenverlust
+
+Fehlfunktionen
+
+wirtschaftliche Folgen
+
+aus der Nutzung der Software.
+
+6. Schutz der Rechte
+
+Alle Rechte an:
+
+Code
+
+Struktur
+
+Konzept
+
+Design
+
+Funktionalität
+
+bleiben vollständig bei den Eigentümern.
+
+7. Versionen
+
+Diese Lizenz gilt für:
+
+Steira.zip
+
+Steira_v2.0.zip
+
+alle zukünftigen Versionen
+
+© Eigentum von
+
+Moritz Schneider
+Benedikt Keijl
 
 For licensing requests contact:
 
